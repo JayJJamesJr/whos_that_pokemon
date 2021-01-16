@@ -5,5 +5,5 @@ This project aims to replicate that using images from the Pokemon images dataset
 ![Pokemon Silhouette](https://github.com/JayJJamesJr/whos_that_pokemon/blob/main/pokemon_silhouette.jpg)
 
 The first step was to create silhouettes of each image by removing their internal contours
-
+![001](https://github.com/JayJJamesJr/whos_that_pokemon/blob/main/Screenshot%20(3).png)
 ![001](https://github.com/JayJJamesJr/whos_that_pokemon/blob/main/Screenshot%20(2).png)
