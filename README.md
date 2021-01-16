@@ -12,6 +12,6 @@ The second step was to pass those images into a neural network and wait.
 
 ![001](https://github.com/JayJJamesJr/whos_that_pokemon/blob/main/Screenshot%20(5).png)
 ![001](https://github.com/JayJJamesJr/whos_that_pokemon/blob/main/Screenshot%20(7).png)
-The model was able to predict which Pokemon was which with close to 100 percent accuracy.
+The model was able to predict which Pokemon was which with close to 99 percent accuracy.
 It ain't much but it was honest work...
 
